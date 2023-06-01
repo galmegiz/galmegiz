@@ -1,4 +1,41 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=저장소&fontSize=90)
+
+
+<div align="center">
+  <h3>📚 Skills 📚</h3>
+  <p>✨Framework & Languages✨</p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/java-orange?style=flat-square&logo=Conda-Forge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-python-yellow?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring Framework-brightgreen?style=flat-square&logo=Spring&logoColor=white"/>
+</div>
+<br>
+<div align="center">
+    <p>✨Infratructure✨</p>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/mysql-blue?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mariadb-9cf?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle-critical?style=flat-square&logo=oracle&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=AmazonAws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-black?style=flat-square&logo=Linux&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Firewall/IPS-red?style=flat-square&logo=Firewall&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Router-black?style=flat-square&logo=Firewall&logoColor=white"/>
+</div>
+<br>
+<div align="center">
+    <p>✨Tools✨</p>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellij-blue?style=flat-square&logo=intellij&logoColor=white"/>
+</div>
 
 <!--
 **galmegiz/galmegiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
