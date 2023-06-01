@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=백엔드%20개발자&fontSize=90)
+<p align="center"> 👋 어쩌다 군생활을 7년이나 해버린 백엔드 개발자 👋</p>
 
 
 <div align="center">
