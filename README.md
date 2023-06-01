@@ -1,4 +1,4 @@
-<p align="center"> 👋 어쩌다 군생활을 7년이나 해버린 백엔드 개발자 👋</p>
+<p align="center"> 👋 7년만에 풀려난😥 백엔드 개발자 👋</p>
 
 
 <div align="center">
@@ -13,7 +13,7 @@
 </div>
 <br>
 <div align="center">
-    <p>✨Infratructure✨</p>
+    <p>⚙️Infratructure</p>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-blue?style=flat-square&logo=mysql&logoColor=white"/>
@@ -30,7 +30,7 @@
 </div>
 <br>
 <div align="center">
-    <p>✨Tools✨</p>
+    <p>🛠️Tools</p>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/>
