@@ -40,7 +40,7 @@
 
 <h1>  Blog  </h1>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=galmegi)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=galmegi)](https://velog.io/@galmegi)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=galmegi)](https://velog.io/@galmegi) 
 
 
