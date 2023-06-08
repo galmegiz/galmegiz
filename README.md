@@ -1,4 +1,4 @@
-<p align="center"> 👋 7년만에 풀려난😥 백엔드 개발자 👋</p>
+<p align="center"> 👋 자바 백엔드 개발자입니다 👋</p>
 
 
 <h1>  Skills  </h1>
